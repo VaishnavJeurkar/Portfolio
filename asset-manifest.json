@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.d5daed7c.css",
+    "main.js": "/Portfolio/static/js/main.dd78c52c.js",
+    "static/media/MySQL.jpg": "/Portfolio/static/media/MySQL.c5bcb956671920bf26d4.jpg",
+    "static/media/Github.jpg": "/Portfolio/static/media/Github.5f23b57feedd908ee580.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.c873958fa6bf026d6cfa.png",
+    "static/media/Python.png": "/Portfolio/static/media/Python.e3f347b95fd474d38054.png",
+    "static/media/React.png": "/Portfolio/static/media/React.a31358356afe3c99a46b.png",
+    "static/media/C++.png": "/Portfolio/static/media/C++.c714aed4936fa0f9a9ee.png",
+    "static/media/C-Sharp.png": "/Portfolio/static/media/C-Sharp.665bb820b8c013e0941a.png",
+    "static/media/Firebase.png": "/Portfolio/static/media/Firebase.1e60feff7b6449168c0e.png",
+    "static/media/CSS.png": "/Portfolio/static/media/CSS.398980de27ebc6d5de1e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.d5daed7c.css.map": "/Portfolio/static/css/main.d5daed7c.css.map",
+    "main.dd78c52c.js.map": "/Portfolio/static/js/main.dd78c52c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5daed7c.css",
+    "static/js/main.dd78c52c.js"
+  ]
+}
